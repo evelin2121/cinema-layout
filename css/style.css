@@ -1,0 +1,153 @@
+.fo { 
+	background-image: url('../img/banner.jpg');
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-size: contain;
+    background-color: #3B3B3B;
+    background-repeat: no-repeat;
+      }
+.col-5 { 
+	position: relative;
+    top: 30px;
+    color: #4A4949;
+    }     
+ h1 { 
+ 	position: relative;
+    bottom: 60px;
+    left: 20px;
+    font-size: 40px;
+    color: #B1B3A4}      
+.verde {
+	position: relative;
+	bottom: 40px;
+    height: 40px;
+    width: 90px;
+    border: solid #0C580F ;
+    border-radius: 8px;
+    padding: 10px;
+    color: #128B18;
+    text-align: center;
+
+    } 
+.uno {
+	position:relative;
+    left:  100px;
+    bottom: 70px;
+    color: #B1B3A4;
+    font-size: 12px; } 
+.dos { 
+	position: relative;
+    bottom: 50px;
+    padding-bottom: 5px;
+    color: #B1B3A4;
+    font-size: 12px;}  
+.tres{ 
+	position: relative;
+	bottom: 50px;
+    padding-bottom: 5px;
+    color: #B1B3A4;
+    font-size: 12px;}
+.cuatro {  
+	position: relative;
+    bottom: 50px;
+    padding-bottom: 5px;
+    color: #B1B3A4;
+    font-size: 12px;}  
+.cinco {
+	position: relative;
+    bottom: 50px;
+    padding-bottom: 5px;
+    color: #B1B3A4;
+    font-size: 12px;
+     }  
+span { 
+	position: relative;
+    left: 50px;
+    font-size: 12px;}  
+.e { 
+	position: relative;
+    left: 58px;} 
+
+.boton { 
+	position: relative;
+	bottom:10px;
+    height: 40px;
+    width: 150px;
+    border-color:  #6495ED;
+    background-color: #B3A041;
+    border-radius: 5px;
+    padding: 10px;
+    color: #B1B3A4;
+   
+    
+    }   
+.book {
+    height: 40px;
+    width: 150px;
+    border-color:  #6495ED;
+    background-color: #EE7727;
+    border-radius: 5px;
+    padding: 10px;
+    color: #B1B3A4;
+   
+    }
+
+.containeruno{ 
+	background-color: #BA9F4A;}
+
+
+img { max-width: 100%;
+     }
+
+.containerdos{ 
+    background-color: #F7FFEE;
+    padding-bottom: 50px;
+    height: 400px;
+
+    }
+.seis { 
+    padding-top: 30px;
+    font-size:  30px;
+    }
+h5{ 
+    padding-top: 30px;
+    font-size: 20px;
+    color: #AFB4AA;}    
+.siete{
+    padding-bottom: 30px;
+    padding-top: 30px;
+     font-size: 20px;
+    color: #CCD3CA;
+    
+}
+ .bo{ 
+ 
+    padding: 20px;
+    height: 70px;
+    width: 150px;
+    border-color:  #6495ED;
+    background-color: #EE7727;
+    border-radius: 5px;
+    
+    color: #B1B3A4;
+
+     }
+
+.ocho{  
+    padding-top: 30px;
+    font-size: 15px;
+    color: #D3A05C;}
+
+h3{ font-size: 10px #616961; 
+} 
+
+a{ color: gray; }   
+    
+
+
+
+
+           
+
+
+
