@@ -92,14 +92,15 @@ span {
    
     }
 
-.containeruno{ 
-	background-color: #BA9F4A;}
+.amarillo{ 
+    background-color: #BA9F4A;
+    height: 500px;
+    padding: 20px;}
 
 
-img { max-width: 100%;
-     }
 
-.containerdos{ 
+
+.parte{ 
     background-color: #F7FFEE;
     padding-bottom: 50px;
     height: 400px;
@@ -107,19 +108,32 @@ img { max-width: 100%;
     }
 .seis { 
     padding-top: 30px;
-    font-size:  30px;
+    font-size:  3em;
     }
 h5{ 
     padding-top: 30px;
-    font-size: 20px;
+    font-size: 30px;
     color: #AFB4AA;}    
 .siete{
     padding-bottom: 30px;
     padding-top: 30px;
-     font-size: 20px;
+    font-size: 30px;
     color: #CCD3CA;
     
 }
+
+h6 {
+    padding-top: 30px;
+    font-size: 20px;
+    color:black;
+ }
+
+ .b { color:#818877;}
+
+ .d { padding-top: 50px;
+      color:#B8993E; 
+      font-size:20px; ;
+ }
  .bo{ 
  
     padding: 20px;
@@ -141,7 +155,43 @@ h5{
 h3{ font-size: 10px #616961; 
 } 
 
-a{ color: gray; }   
+a{ color: gray; }  
+
+iframe { max-width: 100%;} 
+
+img { max-width: 100%;
+      width: 300px;
+      height: 400px;
+     }
+
+.antes { background-color: #FFFFFF;
+         height: 500px;
+         padding-top: 30px;
+     }
+
+.logo { width: 400px;
+        height: 100px;} 
+
+.plomo { background-color: #B6B8AC;
+height: 300px;
+padding-left:85px; 
+padding-top: 70px;
+} 
+
+h2{ color:#DEE0D2;
+
+} 
+
+b { color:#DEE0D2 } 
+
+.fin { color :#A7A99E;
+    padding-bottom: 40px;
+} 
+form {
+    padding-top: 10px;
+}
+input{ height: 40px;
+       width: 400px;}        
     
 
 
